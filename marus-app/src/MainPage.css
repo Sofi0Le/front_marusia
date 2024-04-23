@@ -1,0 +1,35 @@
+/* MainPage.css */
+.main-container {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  .header {
+    background-color: #5865f2;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .answer-btn {
+    background-color: #ff385c;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .answer-btn:hover {
+    background-color: #d93154;
+  }
+  

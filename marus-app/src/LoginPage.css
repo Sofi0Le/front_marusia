@@ -1,0 +1,39 @@
+/* LoginPage.css */
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border: 1px solid #e7e7e7;
+  border-radius: 8px;
+}
+
+.label {
+  font-size: 14px;
+  font-weight: 500;
+  color: #656565;
+  margin-bottom: 5px;
+}
+
+.input {
+  width: calc(100% - 20px); /* уменьшаем ширину на величину padding */
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #e7e7e7;
+  border-radius: 5px;
+}
+
+.button {
+  width: 100%;
+  padding: 10px;
+  background-color: #5181b8;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #436d97;
+}
